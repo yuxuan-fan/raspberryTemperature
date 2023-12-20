@@ -1,2 +1,4 @@
 # raspberryTemperature
- 树莓派获取温度数据传输到服务器
+ 树莓派温度检测
+
+ 通过socket传输指定格式（json）
